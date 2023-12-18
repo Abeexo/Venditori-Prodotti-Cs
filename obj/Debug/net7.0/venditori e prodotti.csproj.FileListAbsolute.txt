@@ -1,0 +1,45 @@
+C:\Users\Simone\Desktop\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.exe
+C:\Users\Simone\Desktop\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.deps.json
+C:\Users\Simone\Desktop\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.runtimeconfig.json
+C:\Users\Simone\Desktop\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.dll
+C:\Users\Simone\Desktop\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.pdb
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.csproj.AssemblyReference.cache
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.AssemblyInfoInputs.cache
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.AssemblyInfo.cs
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.dll
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\refint\venditori e prodotti.dll
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.pdb
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.genruntimeconfig.cache
+C:\Users\Simone\Desktop\venditori e prodotti\obj\Debug\net7.0\ref\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.exe
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.deps.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.runtimeconfig.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\bin\Debug\net7.0\venditori e prodotti.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.csproj.AssemblyReference.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.GeneratedMSBuildEditorConfig.editorconfig
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.AssemblyInfoInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.AssemblyInfo.cs
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.csproj.CoreCompileInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\refint\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\venditori e prodotti.genruntimeconfig.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2\venditori e prodotti\obj\Debug\net7.0\ref\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\bin\Debug\net7.0\venditori e prodotti.exe
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\bin\Debug\net7.0\venditori e prodotti.deps.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\bin\Debug\net7.0\venditori e prodotti.runtimeconfig.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\bin\Debug\net7.0\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\bin\Debug\net7.0\venditori e prodotti.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.csproj.AssemblyReference.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.GeneratedMSBuildEditorConfig.editorconfig
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.AssemblyInfoInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.AssemblyInfo.cs
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.csproj.CoreCompileInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\refint\venditori e prodotti.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\venditori e prodotti.genruntimeconfig.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\venditori e prodotti --\obj\Debug\net7.0\ref\venditori e prodotti.dll
